@@ -55,8 +55,9 @@ A estrutura de pastas do projeto está organizada da seguinte maneira:
 
 ```bash
 -   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
--   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
 -   `WebScrapingG1.py`: Script que contém o código fonte do projeto.
+-   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
+
 
 
 ## Avisos Importantes
