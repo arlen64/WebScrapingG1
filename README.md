@@ -8,8 +8,8 @@ Obs: O usuário não consiguirá exibir mais de 8 notícias <br />
 
 ## Bibliotecas necessárias:
 
-#### Requests
-#### BeautifulSoup
+- Requests
+- BeautifulSoup
 
 # Funções/variáveis:
 
