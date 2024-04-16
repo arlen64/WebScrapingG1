@@ -18,7 +18,7 @@ Função validar_numeros() : Verifica se o usuário digita apenas numeros, sendo
 
 ## Objetivo
 
-O objetivo principal deste projeto é fornecer uma ferramenta de scraping para coletar notícias do G1 de maneira automatizada de forma que o usuário interaja com o código digitando seu nome e escolhendo quantas notícias quer exibir (até 8 notícias). <br/>
+O objetivo deste projeto é fornecer uma ferramenta de scraping para coletar notícias do G1 de maneira automatizada de forma que o usuário interaja com o código digitando seu nome e escolhendo quantas notícias quer exibir (até 8 notícias). <br/>
 O script retorna o Título, Subtítulo e link da notícia. <br/>
 Esse código pode ser usado como base para projetos mais avançados ou para entender os conceitos básicos de scraping.
 
